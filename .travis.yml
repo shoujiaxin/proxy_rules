@@ -20,7 +20,7 @@ after_script:
 
 env:
   global:
-    - github_repo: github.com/shoujiaxin/proxy_rules
+    - github_repo: github.com/shoujiaxin/proxy-rules
 
 notifications:
   email:
