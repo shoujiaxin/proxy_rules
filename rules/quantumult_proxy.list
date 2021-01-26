@@ -1,4 +1,4 @@
-# Last Modified: Tue Sep  8 10:47:25 2020
+# Last Modified: Tue Jan 26 03:38:49 2021
 host-suffix, 030buy.com, proxy
 host-suffix, 0rz.tw, proxy
 host-suffix, 1-apple.com.tw, proxy
@@ -156,6 +156,7 @@ host-suffix, aceros-de-hispania.com, proxy
 host-suffix, acevpn.com, proxy
 host-suffix, acg18.me, proxy
 host-suffix, acgkj.com, proxy
+host-suffix, acgnx.se, proxy
 host-suffix, acmedia365.com, proxy
 host-suffix, acmetoy.com, proxy
 host-suffix, acnw.com.au, proxy
@@ -215,6 +216,7 @@ host-suffix, alhayat.com, proxy
 host-suffix, alicejapan.co.jp, proxy
 host-suffix, aliengu.com, proxy
 host-suffix, alkasir.com, proxy
+host-suffix, all4mom.org, proxy
 host-suffix, allcoin.com, proxy
 host-suffix, allconnected.co, proxy
 host-suffix, alldrawnsex.com, proxy
@@ -308,7 +310,7 @@ host-suffix, apiary.io, proxy
 host-suffix, apidocs.linksalpha.com, proxy
 host-suffix, apigee.com, proxy
 host-suffix, apk-dl.com, proxy
-host-suffix, apkdler.com, proxy
+host-suffix, apkcombo.com, proxy
 host-suffix, apkmirror.com, proxy
 host-suffix, apkmonk.com, proxy
 host-suffix, apkplz.com, proxy
@@ -332,6 +334,7 @@ host-suffix, archive.fo, proxy
 host-suffix, archive.is, proxy
 host-suffix, archive.li, proxy
 host-suffix, archive.org, proxy
+host-suffix, archive.ph, proxy
 host-suffix, archive.today, proxy
 host-suffix, archiveofourown.com, proxy
 host-suffix, archiveofourown.org, proxy
@@ -566,7 +569,6 @@ host-suffix, blog.foolsmountain.com, proxy
 host-suffix, blog.fuckgfw233.org, proxy
 host-suffix, blog.goo.ne.jp, proxy
 host-suffix, blog.google, proxy
-host-suffix, blog.inoreader.com, proxy
 host-suffix, blog.istef.info, proxy
 host-suffix, blog.jackjia.com, proxy
 host-suffix, blog.jp, proxy
@@ -723,6 +725,7 @@ host-suffix, cam4.com, proxy
 host-suffix, cam4.jp, proxy
 host-suffix, cam4.sg, proxy
 host-suffix, camfrog.com, proxy
+host-suffix, campaignforuyghurs.org, proxy
 host-suffix, cams.com, proxy
 host-suffix, cams.org.sg, proxy
 host-suffix, canadameet.com, proxy
@@ -934,6 +937,7 @@ host-suffix, cipfg.org, proxy
 host-suffix, circlethebayfortibet.org, proxy
 host-suffix, cirosantilli.com, proxy
 host-suffix, citizencn.com, proxy
+host-suffix, citizenlab.ca, proxy
 host-suffix, citizenlab.org, proxy
 host-suffix, citizenscommission.hk, proxy
 host-suffix, citizensradio.org, proxy
@@ -1258,7 +1262,6 @@ host-suffix, dolc.de, proxy
 host-suffix, dolf.org.hk, proxy
 host-suffix, dollf.com, proxy
 host-suffix, domain.club.tw, proxy
-host-suffix, domainhelp.search.com, proxy
 host-suffix, domains.google, proxy
 host-suffix, domaintoday.com.au, proxy
 host-suffix, dongtaiwang.com, proxy
@@ -1302,6 +1305,7 @@ host-suffix, dtiblog.com, proxy
 host-suffix, dtic.mil, proxy
 host-suffix, dtwang.org, proxy
 host-suffix, duanzhihu.com, proxy
+host-suffix, dubox.com, proxy
 host-suffix, duck.com, proxy
 host-suffix, duckdns.org, proxy
 host-suffix, duckduckgo-owned-server.yahoo.net, proxy
@@ -1711,6 +1715,7 @@ host-suffix, freefuckvids.com, proxy
 host-suffix, freegao.com, proxy
 host-suffix, freehongkong.org, proxy
 host-suffix, freeilhamtohti.org, proxy
+host-suffix, freekazakhs.org, proxy
 host-suffix, freekwonpyong.org, proxy
 host-suffix, freelotto.com, proxy
 host-suffix, freeman2.com, proxy
@@ -1881,6 +1886,7 @@ host-suffix, gist.github.com, proxy
 host-suffix, git.io, proxy
 host-suffix, github.com, proxy
 host-suffix, github.io, proxy
+host-suffix, githubassets.com, proxy
 host-suffix, githubusercontent.com, proxy
 host-suffix, gizlen.net, proxy
 host-suffix, gjczz.com, proxy
@@ -1906,6 +1912,7 @@ host-suffix, gmll.org, proxy
 host-suffix, gmodules.com, proxy
 host-suffix, gmozomg.izihost.org, proxy
 host-suffix, gnci.org.hk, proxy
+host-suffix, gnews.org, proxy
 host-suffix, go-pki.com, proxy
 host-suffix, go.nesnode.com, proxy
 host-suffix, go141.com, proxy
@@ -1927,6 +1934,7 @@ host-suffix, gokbayrak.com, proxy
 host-suffix, golang.org, proxy
 host-suffix, goldbet.com, proxy
 host-suffix, goldbetsports.com, proxy
+host-suffix, golden-ages.org, proxy
 host-suffix, goldeneyevault.com, proxy
 host-suffix, goldenfrog.com, proxy
 host-suffix, goldjizz.com, proxy
@@ -2072,6 +2080,8 @@ host-suffix, gsp.target.com, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, gtricks.com, proxy
 host-suffix, gts-vpn.com, proxy
+host-suffix, gtv.org, proxy
+host-suffix, gtv1.org, proxy
 host-suffix, gu-chu-sum.org, proxy
 host-suffix, guaguass.com, proxy
 host-suffix, guaguass.org, proxy
@@ -2149,6 +2159,7 @@ host-suffix, help.linksalpha.com, proxy
 host-suffix, helpeachpeople.com, proxy
 host-suffix, helplinfen.com, proxy
 host-suffix, helpster.de, proxy
+host-suffix, helpuyghursnow.org, proxy
 host-suffix, helpzhuling.org, proxy
 host-suffix, hentai.to, proxy
 host-suffix, hentaitube.tv, proxy
@@ -2221,6 +2232,7 @@ host-suffix, hkcmi.edu, proxy
 host-suffix, hkcnews.com, proxy
 host-suffix, hkcoc.com, proxy
 host-suffix, hkcoc.weather.com.hk, proxy
+host-suffix, hkctu.org.hk, proxy
 host-suffix, hkdailynews.com.hk, proxy
 host-suffix, hkday.net, proxy
 host-suffix, hkdf.org, proxy
@@ -2267,6 +2279,7 @@ host-suffix, homeservershow.com, proxy
 host-suffix, hongkongfp.com, proxy
 host-suffix, hongmeimei.com, proxy
 host-suffix, hongzhi.li, proxy
+host-suffix, honven.xyz, proxy
 host-suffix, hootsuite.com, proxy
 host-suffix, hoovers.com, proxy
 host-suffix, hopedialogue.org, proxy
@@ -2366,6 +2379,7 @@ host-suffix, iask.bz, proxy
 host-suffix, iask.ca, proxy
 host-suffix, iav19.com, proxy
 host-suffix, ibiblio.org, proxy
+host-suffix, ibit.am, proxy
 host-suffix, iblist.com, proxy
 host-suffix, iblogserv-f.net, proxy
 host-suffix, ibros.org, proxy
@@ -2410,6 +2424,7 @@ host-suffix, iicns.com, proxy
 host-suffix, iipdigital.usembassy.gov, proxy
 host-suffix, ikstar.com, proxy
 host-suffix, ikwb.com, proxy
+host-suffix, ilhamtohtiinstitute.org, proxy
 host-suffix, illusionfactory.com, proxy
 host-suffix, ilove80.be, proxy
 host-suffix, ilovelongtoes.com, proxy
@@ -2448,6 +2463,7 @@ host-suffix, initiativesforchina.org, proxy
 host-suffix, inkui.com, proxy
 host-suffix, inmediahk.net, proxy
 host-suffix, innermongolia.org, proxy
+host-suffix, inoreader.com, proxy
 host-suffix, inote.tw, proxy
 host-suffix, insecam.org, proxy
 host-suffix, insidevoa.com, proxy
@@ -2709,6 +2725,7 @@ host-suffix, kurashsultan.com, proxy
 host-suffix, kurtmunger.com, proxy
 host-suffix, kusocity.com, proxy
 host-suffix, kwcg.ca, proxy
+host-suffix, kwok7.com, proxy
 host-suffix, kwongwah.com.my, proxy
 host-suffix, kxsw.life, proxy
 host-suffix, kyofun.com, proxy
@@ -2725,6 +2742,7 @@ host-suffix, lama.com.tw, proxy
 host-suffix, lamayeshe.com, proxy
 host-suffix, lamnia.co.uk, proxy
 host-suffix, lamrim.com, proxy
+host-suffix, landofhope.tv, proxy
 host-suffix, lanterncn.cn, proxy
 host-suffix, lantosfoundation.org, proxy
 host-suffix, laod.cn, proxy
@@ -2850,6 +2868,7 @@ host-suffix, lsmradio.com, proxy
 host-suffix, lsmwebcast.com, proxy
 host-suffix, lsxszzg.com, proxy
 host-suffix, ltn.com.tw, proxy
+host-suffix, luckydesigner.space, proxy
 host-suffix, luke54.com, proxy
 host-suffix, luke54.org, proxy
 host-suffix, lupm.org, proxy
@@ -2990,6 +3009,7 @@ host-suffix, mimiai.net, proxy
 host-suffix, mimivip.com, proxy
 host-suffix, mimivv.com, proxy
 host-suffix, mindrolling.org, proxy
+host-suffix, mingdemedia.org, proxy
 host-suffix, minghui-a.org, proxy
 host-suffix, minghui-b.org, proxy
 host-suffix, minghui-school.org, proxy
@@ -3085,6 +3105,7 @@ host-suffix, msha.gov, proxy
 host-suffix, mswe1.org, proxy
 host-suffix, mthruf.com, proxy
 host-suffix, mtw.tl, proxy
+host-suffix, mubi.com, proxy
 host-suffix, muchosucko.com, proxy
 host-suffix, mullvad.net, proxy
 host-suffix, multiply.com, proxy
@@ -3177,6 +3198,7 @@ host-suffix, naol.cc, proxy
 host-suffix, nat.gov.tw, proxy
 host-suffix, nat.moe, proxy
 host-suffix, national-lottery.co.uk, proxy
+host-suffix, nationalawakening.org, proxy
 host-suffix, nationsonline.org, proxy
 host-suffix, nationwide.com, proxy
 host-suffix, naughtyamerica.com, proxy
@@ -3229,6 +3251,7 @@ host-suffix, news.singtao.ca, proxy
 host-suffix, news.tvb.com, proxy
 host-suffix, news.tvbs.com.tw, proxy
 host-suffix, news.yahoo.com, proxy
+host-suffix, news.ycombinator.com, proxy
 host-suffix, news100.com.tw, proxy
 host-suffix, newsancai.com, proxy
 host-suffix, newschinacomment.org, proxy
@@ -3367,6 +3390,7 @@ host-suffix, occupytiananmen.com, proxy
 host-suffix, oclp.hk, proxy
 host-suffix, ocreampies.com, proxy
 host-suffix, ocry.com, proxy
+host-suffix, ocsp.int-x3.letsencrypt.org, proxy
 host-suffix, october-review.org, proxy
 host-suffix, oculus.com, proxy
 host-suffix, oculuscdn.com, proxy
@@ -3376,6 +3400,7 @@ host-suffix, officeoftibet.com, proxy
 host-suffix, ofile.org, proxy
 host-suffix, ogaoga.org, proxy
 host-suffix, ogate.org, proxy
+host-suffix, ohmyrss.com, proxy
 host-suffix, oikos.com.tw, proxy
 host-suffix, oiktv.com, proxy
 host-suffix, oizoblog.com, proxy
@@ -3420,6 +3445,7 @@ host-suffix, opendn.xyz, proxy
 host-suffix, openervpn.in, proxy
 host-suffix, openid.net, proxy
 host-suffix, openleaks.org, proxy
+host-suffix, opensource.google, proxy
 host-suffix, openvpn.net, proxy
 host-suffix, openvpn.org, proxy
 host-suffix, openwebster.com, proxy
@@ -3483,6 +3509,7 @@ host-suffix, paperb.us, proxy
 host-suffix, paradisehill.cc, proxy
 host-suffix, paradisepoker.com, proxy
 host-suffix, parkansky.com, proxy
+host-suffix, parler.com, proxy
 host-suffix, parsevideo.com, proxy
 host-suffix, partycasino.com, proxy
 host-suffix, partypoker.com, proxy
@@ -3676,6 +3703,7 @@ host-suffix, proyectoclubes.com, proxy
 host-suffix, prozz.net, proxy
 host-suffix, psblog.name, proxy
 host-suffix, pscp.tv, proxy
+host-suffix, pshvpn.com, proxy
 host-suffix, psiphon.ca, proxy
 host-suffix, psiphon.civisec.org, proxy
 host-suffix, psiphon3.com, proxy
@@ -3785,6 +3813,7 @@ host-suffix, realforum.zkiz.com, proxy
 host-suffix, realitykings.com, proxy
 host-suffix, realraptalk.com, proxy
 host-suffix, realsexpass.com, proxy
+host-suffix, reason.com, proxy
 host-suffix, rebatesrule.net, proxy
 host-suffix, recordhistory.org, proxy
 host-suffix, recovery.org.tw, proxy
@@ -3812,6 +3841,7 @@ host-suffix, renminbao.com, proxy
 host-suffix, renyurenquan.org, proxy
 host-suffix, research.jmsc.hku.hk, proxy
 host-suffix, resilio.com, proxy
+host-suffix, resistchina.org, proxy
 host-suffix, retweeteffect.com, proxy
 host-suffix, retweetist.com, proxy
 host-suffix, retweetrank.com, proxy
@@ -3854,6 +3884,7 @@ host-suffix, rsdlmonitor.com, proxy
 host-suffix, rsf-chinese.org, proxy
 host-suffix, rsf.org, proxy
 host-suffix, rsgamen.org, proxy
+host-suffix, rsshub.app, proxy
 host-suffix, rssmeme.com, proxy
 host-suffix, rtalabel.org, proxy
 host-suffix, rthk.hk, proxy
@@ -3918,13 +3949,15 @@ host-suffix, scieron.com, proxy
 host-suffix, scmp.com, proxy
 host-suffix, scmpchinese.com, proxy
 host-suffix, scramble.io, proxy
+host-suffix, scratch.mit.edu, proxy
 host-suffix, scribd.com, proxy
 host-suffix, scriptspot.com, proxy
-host-suffix, seapuff.com, proxy
 host-suffix, search.aol.com, proxy
+host-suffix, search.com, proxy
 host-suffix, search.yahoo.co.jp, proxy
 host-suffix, search.yahoo.com, proxy
 host-suffix, searchtruth.com, proxy
+host-suffix, searx.me, proxy
 host-suffix, secretchina.com, proxy
 host-suffix, secretgarden.no, proxy
 host-suffix, secretsline.biz, proxy
@@ -4185,6 +4218,7 @@ host-suffix, sstmlt.net, proxy
 host-suffix, stackoverflow.com, proxy
 host-suffix, stage64.hk, proxy
 host-suffix, standupfortibet.org, proxy
+host-suffix, standwithhk.org, proxy
 host-suffix, stanford.edu, proxy
 host-suffix, starfishfx.com, proxy
 host-suffix, starp2p.com, proxy
@@ -4221,6 +4255,7 @@ host-suffix, stormmediagroup.com, proxy
 host-suffix, stoweboyd.com, proxy
 host-suffix, stranabg.com, proxy
 host-suffix, straplessdildo.com, proxy
+host-suffix, streamate.com, proxy
 host-suffix, streamingthe.net, proxy
 host-suffix, streema.com, proxy
 host-suffix, strikingly.com, proxy
@@ -4367,6 +4402,7 @@ host-suffix, teddysun.com, proxy
 host-suffix, teeniefuck.net, proxy
 host-suffix, teensinasia.com, proxy
 host-suffix, telecomspace.com, proxy
+host-suffix, telegra.ph, proxy
 host-suffix, telegram.dog, proxy
 host-suffix, telegram.me, proxy
 host-suffix, telegram.org, proxy
@@ -4396,6 +4432,7 @@ host-suffix, thefacebook.com, proxy
 host-suffix, thefrontier.hk, proxy
 host-suffix, thegioitinhoc.vn, proxy
 host-suffix, thegly.com, proxy
+host-suffix, theguardian.com, proxy
 host-suffix, thehots.info, proxy
 host-suffix, thehousenews.com, proxy
 host-suffix, thehun.net, proxy
@@ -4443,7 +4480,6 @@ host-suffix, tianzhu.org, proxy
 host-suffix, tibet-envoy.eu, proxy
 host-suffix, tibet-foundation.org, proxy
 host-suffix, tibet-house-trust.co.uk, proxy
-host-suffix, tibet-info.net, proxy
 host-suffix, tibet-initiative.de, proxy
 host-suffix, tibet-munich.de, proxy
 host-suffix, tibet.a.se, proxy
@@ -4658,11 +4694,13 @@ host-suffix, turansam.org, proxy
 host-suffix, turbobit.net, proxy
 host-suffix, turbohide.com, proxy
 host-suffix, turbotwitter.com, proxy
+host-suffix, turkistantimes.com, proxy
 host-suffix, turntable.fm, proxy
 host-suffix, tushycash.com, proxy
 host-suffix, tuvpn.com, proxy
 host-suffix, tuzaijidi.com, proxy
 host-suffix, tv.com, proxy
+host-suffix, tv.jtbc.joins.com, proxy
 host-suffix, tvants.com, proxy
 host-suffix, tvboxnow.com, proxy
 host-suffix, tvider.com, proxy
@@ -5156,6 +5194,7 @@ host-suffix, wingamestore.com, proxy
 host-suffix, wingy.site, proxy
 host-suffix, winning11.com, proxy
 host-suffix, winwhispers.info, proxy
+host-suffix, wionews.com, proxy
 host-suffix, wire.com, proxy
 host-suffix, wiredbytes.com, proxy
 host-suffix, wiredpen.com, proxy
@@ -5225,7 +5264,6 @@ host-suffix, www.americorps.gov, proxy
 host-suffix, www.antd.org, proxy
 host-suffix, www.aolnews.com, proxy
 host-suffix, www.businessinsider.com.au, proxy
-host-suffix, www.citizenlab.org, proxy
 host-suffix, www.cmoinc.org, proxy
 host-suffix, www.cool18.com, proxy
 host-suffix, www.dmm.com, proxy
@@ -5413,6 +5451,7 @@ host-suffix, yourprivatevpn.com, proxy
 host-suffix, yourtrap.com, proxy
 host-suffix, yousendit.com, proxy
 host-suffix, youshun12.com, proxy
+host-suffix, youthforfreechina.org, proxy
 host-suffix, youthnetradio.org, proxy
 host-suffix, youtu.be, proxy
 host-suffix, youtube-nocookie.com, proxy
